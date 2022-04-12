@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\james.moir\\.nuget\\packages\\": {},
+    "C:\\Users\\matthew.gordon\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\james.moir\\source\\repos\\DevOps Web Application\\DevOps Web Application\\DevOps Web Application.csproj",
+      "projectUniqueName": "C:\\Users\\matthew.gordon\\Source\\Repos\\Byte-James\\DevOps-WebApplication\\DevOps Web Application\\DevOps Web Application.csproj",
       "projectName": "DevOps Web Application",
-      "projectPath": "C:\\Users\\james.moir\\source\\repos\\DevOps Web Application\\DevOps Web Application\\DevOps Web Application.csproj",
-      "packagesPath": "C:\\Users\\james.moir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\james.moir\\source\\repos\\DevOps Web Application\\DevOps Web Application\\obj\\",
+      "projectPath": "C:\\Users\\matthew.gordon\\Source\\Repos\\Byte-James\\DevOps-WebApplication\\DevOps Web Application\\DevOps Web Application.csproj",
+      "packagesPath": "C:\\Users\\matthew.gordon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\matthew.gordon\\Source\\Repos\\Byte-James\\DevOps-WebApplication\\DevOps Web Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\james.moir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\matthew.gordon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
