@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ZXZKPsi2q6fE/R2bfB3rCyA+D3dmdjYRcCzRm0jI4Pl11KAyTXrg2sJmRUI1fisfPWfoS8jRiWNvuELZxkkvOQ==",
+  "dgSpecHash": "T9zrr61tBEWfCk/81BWOqlcOYQkZYkRisrBtTLle2dvJWHA9oRt4/ABMM81uX56rtRvkU0OkxZfpP96FiDIVZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\james.moir\\source\\repos\\DevOps Web Application\\DevOps Web Application\\DevOps Web Application.csproj",
+  "projectFilePath": "C:\\Users\\matthew.gordon\\Source\\Repos\\Byte-James\\DevOps-WebApplication\\DevOps Web Application\\DevOps Web Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\james.moir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+    "C:\\Users\\matthew.gordon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
   ],
   "logs": []
 }
